@@ -1,0 +1,23 @@
+
+.jumbotron {
+    padding-top: 6rem ;
+    background-color: rgb(252, 213, 213);
+}
+
+#Galeri{
+    background-color: rgb(252, 213, 213);
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.card:hover
+{
+scale: 1.1;
+}
+
+.nav-item:hover
+{
+scale: 1.1;
+}
